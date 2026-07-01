@@ -163,7 +163,7 @@ public class Messaging
         SetState(5);
 
         return TweetNaCl.CryptoBox(packet, hasher.Finish(),
-            _clientPk, PepperKey.ServerSecretKey);
+            PepperKey.ServerPublicKey, PepperKey.ClientSecretKey);
     }
 
     public void Send(PiranhaMessage piranhaMessage)
