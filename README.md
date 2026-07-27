@@ -1,4 +1,4 @@
-<img width="494" height="249" alt="изображение" src="https://github.com/user-attachments/assets/21aeadb4-711c-426e-abfe-876a2f654ef9" /># BSL.v68
+# BSL.v68
 C Sharp Brawl Stars server emulator for version 68
 
 ## How to play: ##
