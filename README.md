@@ -1,4 +1,4 @@
-# BSL.v68
+<img width="494" height="249" alt="изображение" src="https://github.com/user-attachments/assets/21aeadb4-711c-426e-abfe-876a2f654ef9" /># BSL.v68
 C Sharp Brawl Stars server emulator for version 68
 
 ## How to play: ##
@@ -13,7 +13,7 @@ C Sharp Brawl Stars server emulator for version 68
 4: Follow client instructions
 
 ### Android Client ###
-1: [Download the APK here](https://www.mediafire.com/file/5hw7ok4e8ehu4jz/com.bsl.v68-rev.apk)
+1: [Download the APK here](https://mega.nz/file/PBkiXADK#eHXCPuTD8BPSDHNOJ2up__OKhzOIuXiL3Dp2DcJUbxg)
 
 2: Change redirectHost (also redirectPort and offlineBattles if you need it) in the frida config (lib/arm64-v8a/libBSL.c.so)
 
